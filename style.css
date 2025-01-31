@@ -1,0 +1,31 @@
+#BannerText {
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    background-color: #8B451F;
+}
+
+ul {
+    color: #30661E;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+p {
+    color: #5E1514;
+}
+
+main {
+    background-color: #D2A262;
+    padding: 1px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    background-color: #D2A262;
+    margin: 0px;
+    padding: 1px;
+}
